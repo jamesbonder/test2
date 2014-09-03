@@ -32,12 +32,13 @@ li {
 
 h1{
 	color: #3a3a3a;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 90px;
-	font-weight: 400;
-	letter-spacing: 6px;
+	font-weight: 700;
+	letter-spacing: 1px;
 	margin-bottom: 10px;
 	margin: 0;
+	line-height:77px;
 }
 
 h2{
@@ -66,6 +67,7 @@ a:hover{
 
 .links{
 	display:block;
+	margin: 10px 0px 0px 5px;
 }
 
 .links li{
