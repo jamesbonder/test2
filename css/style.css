@@ -115,3 +115,15 @@ a:hover {
   width: 80%;
   text-align: justify;
 }
+
+/* line 102, ../sass/scss/style.scss */
+.projects span {
+  font-style: italic;
+  font-size: 12px;
+  padding-left: 15px;
+}
+
+/* line 108, ../sass/scss/style.scss */
+.projects p {
+  margin-top: 5px;
+}
